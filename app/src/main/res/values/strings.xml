@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Dogglers</string>
+    <string name="dog_name_1">Sun Shine</string>
+    <string name="dog_age_1">4</string>
+    <string name="dog_hobbies_1">Dog Hobbies</string>
+    <string name="button_horizontal">Horizontal</string>
+    <string name="button_vertical">Vertical</string>
+    <string name="button_grid">Grid</string>
+    <string name="horizontal_item_text">Horizontal Item Text</string>
 </resources>
